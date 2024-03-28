@@ -16,3 +16,5 @@ trail
 rimon10241u0_a241paid
 trail
 rimon10308u0_a308paid
+trail bd
+rimon10286u0_a286paid
